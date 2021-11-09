@@ -58,11 +58,13 @@ nav img {
     justify-content: right;
 }
 .cart {
+    flex: 1;
     width: 25px;
     height: auto;
     justify-content: flex-end;
 }
 .profile {
+    flex: 1;
     width: 25px;
     height: auto;
     justify-content: flex-end;
