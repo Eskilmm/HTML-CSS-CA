@@ -60,8 +60,10 @@ nav img {
 .cart {
     width: 25px;
     height: auto;
+    justify-content: flex-end;
 }
 .profile {
     width: 25px;
     height: auto;
+    justify-content: flex-end;
 }
