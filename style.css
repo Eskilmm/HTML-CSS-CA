@@ -55,13 +55,13 @@ nav img {
 }
 .icons {
     flex: 1;
-    justify-content: flex-end;
+    justify-content: right;
 }
 .cart {
-    width: 15px;
+    width: 25px;
     height: auto;
 }
 .profile {
-    width: 15px;
+    width: 25px;
     height: auto;
 }
