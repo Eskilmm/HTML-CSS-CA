@@ -79,7 +79,7 @@ nav img {
     text-align: left;
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(media/Regnskog\ texture\ 1.png);
     background-position: center;
-    background-size: cover;
+    background-size: 100px;
     position: relative;
     overflow: hidden;
 }
