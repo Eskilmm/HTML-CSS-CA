@@ -71,10 +71,10 @@ nav img {
 }
 .text-box {
     width: 90%;
-    height:auto;
+    height:766px;
     color: #fff;
     position: absolute;
-    top: 30%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
     text-align: left;
