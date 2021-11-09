@@ -53,3 +53,15 @@ nav img {
 .nav-links ul li:hover::after{
     width: 100%;
 }
+.icons {
+    flex: 1;
+    justify-content: flex-end;
+}
+.cart {
+    width: 15px;
+    height: auto;
+}
+.profile {
+    width: 15px;
+    height: auto;
+}
