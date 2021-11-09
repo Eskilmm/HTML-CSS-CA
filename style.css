@@ -57,13 +57,13 @@ nav img {
     flex: 1;
     justify-content: right;
 }
-.cart {
+.profile {
     flex: 1;
     width: 25px;
     height: auto;
     justify-content: flex-end;
 }
-.profile {
+.cart {
     flex: 1;
     width: 25px;
     height: auto;
