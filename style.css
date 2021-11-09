@@ -97,7 +97,11 @@ nav img {
     transition: 1s;
 }
 .CTA:hover{
-    border: 1px solid #00ff00;
-    background: #00ff00;
+    border: 1px solid #808080;
+    background: #808080;
 }
-
+@media(max-width: 700px)
+{
+    .text-box h1{
+        font-size: 20px;
+    }
