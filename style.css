@@ -84,6 +84,6 @@ nav img {
     position: relative;
     overflow: hidden;
 }
-.text-box h1 p {
-    justify-content: space-between;
+.text-box h1 {
+   padding-left: 20px;
 }
