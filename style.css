@@ -74,7 +74,7 @@ nav img {
 }
 .text-box {
     width: 90%;
-    height:766px;
+    height: auto;
     color: #fff;
     position: absolute;
     top: 50%;
@@ -137,4 +137,4 @@ nav img {
         font-weight: 300;
         line-height: 22px;
         padding: 10px;
-}
+    }
