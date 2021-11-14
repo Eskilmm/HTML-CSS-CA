@@ -108,30 +108,35 @@ nav img {
     .text-box h1{
         font-size: 20px;
     }
-
-    .inthewind {
-        width: 90%;
-        height:766px;
-        color: #fff;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
-        text-align: left;
-        background-position: center;
-        background-size: 1440px 766px;
-        position: relative;
-        overflow: hidden;
+    .nav-links ul li {
+        display: block;
     }
-    .inthe-wind{
-        display: inline-block;
-        text-decoration: none;
-        color: #fff;
-        border: 1px solid #fff;
-        padding: 12px 34px;
-        font-size: 13px;
-        background-color: #00C2ff;
-        position: relative;
-        cursor: pointer;
-        transition: 1s;
-    }
+.nav-links {
+    position: absolute;
+    background: #fff;
+    height: 100px;
+    width: 200px;
+    top: 0;
+    right: 0;
+    text-align: left;
+    z-index: 2;
+}
+.in-the-wind {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+.inthe-wind {
+    margin: 5%;
+    display: flex;
+    align-items: center;
+}
+.inthe-wind {
+    flex-basis: 31%;
+    background: #00C2ff;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+}
