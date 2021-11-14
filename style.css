@@ -59,18 +59,19 @@ nav img {
 .icons {
     flex: 1;
     justify-content: flex-end;
-    float: right;
 }
-.profile {
+.profile img {
     flex: 1;
     width: 25px;
     height: auto;
+    float: right;
     justify-content: flex-end;
 }
-.cart {
+.cart img {
     flex: 1;
     width: 25px;
     height: auto;
+    float: right;
     justify-content: flex-end;
 }
 .text-box {
