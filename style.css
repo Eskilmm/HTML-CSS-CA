@@ -108,6 +108,21 @@ nav img {
     .text-box h1{
         font-size: 20px;
     }
+
+    .inthewind {
+        width: 90%;
+        height:766px;
+        color: #fff;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        text-align: left;
+        background-position: center;
+        background-size: 1440px 766px;
+        position: relative;
+        overflow: hidden;
+    }
     .inthe-wind{
         display: inline-block;
         text-decoration: none;
