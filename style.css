@@ -64,14 +64,12 @@ nav img {
     flex: 1;
     width: 25px;
     height: auto;
-    float: right;
     justify-content: flex-end;
 }
 .cart {
     flex: 1;
     width: 25px;
     height: auto;
-    float: right;
     justify-content: flex-end;
 }
 .text-box {
