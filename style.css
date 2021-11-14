@@ -138,3 +138,22 @@ nav img {
         line-height: 22px;
         padding: 10px;
     }
+    .hiking-jacket {
+        margin-top: 5%;
+        display: flex;
+        justify-content: space-between; 
+    }
+    .hiking-s3{
+        flex-basis: 31%;
+        background: #00C2ff;
+        border-radius: 10px;
+        margin-bottom: 5%;
+        padding: 20px 12px;
+        box-sizing: border-box;
+        transition: .5s;
+    }
+    h3{
+        text-align: center;
+        font-weight: 600;
+        margin: 10px 0;
+    }
