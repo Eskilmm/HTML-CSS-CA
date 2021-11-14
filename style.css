@@ -108,3 +108,25 @@ nav img {
     .text-box h1{
         font-size: 20px;
     }
+
+    .inthe-wind {
+        flex: 1; 
+        text-align: center;
+    }
+    
+    .inthe-wind {
+        align-items: center;
+    }
+      
+    .inthe-wind {
+        flex-basis: 31%;
+        margin-bottom: 5%;
+        padding: 20px 12px;
+        box-sizing: border-box;
+      margin: auto;
+      width: 15%;
+    }
+    .inthe-wind{
+      background-color: #00c2ff;
+    
+    }
