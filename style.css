@@ -206,7 +206,11 @@ p{
         display: block;
         white-space: nowrap;
     }
-    .jacket-1{
+    .jacket{
+        display: inline-block;
+        margin-right: 10px;
+    }
+    .jacket img{
         
     }
     
