@@ -210,12 +210,12 @@ p{
         overflow-x: scroll;
         margin-top: 20px;
         padding: 20px;
-        box-sizing: border-box;
-        background-color: #808080;
+        box-sizing: border-box;       
     }
     .jackets-slider{
         display: block;
         white-space: nowrap;
+        background-color: #808080;
 
     }
     .jacket{
