@@ -5,7 +5,7 @@
 }
 
 .header {
-    min-height: 100vh;
+    min-height: 80vh;
     width: 100%;
 }
 
@@ -167,6 +167,8 @@ nav img {
     }
 
     .women-men-img {
+        display:flex;
+        flex: 1;
         position:relative;
         text-align: center;
         color:#fff;
