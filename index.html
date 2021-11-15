@@ -4,29 +4,31 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rainy Days</title>
+    <title>Rainy Days Home</title>
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
 </head>
 <body>
     <section class="header">
         <nav>
             <a href="index.html"><img src="media/logo.png"></a>
-            <div class="nav-links">
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hidemenu()"></i>
                 <ul>
                     <li><a href="">WOMEN</a></li>
                     <li><a href="">MEN</a></li>
                     <li><a href="">NEWS</a></li>
                     <input type="text" placeholder="Search">
-
                 </ul>
             </div>
             <div class="icons">
                 <img class="cart" src="/media/Cart.png">
                 <img class="profile" src="/media/profile.png">
             </div>    
+            <i class="fa fa-bars"onclick="showmenu"></i>
         </nav>
         </section>
         <section class="text-box-cta">
@@ -99,7 +101,27 @@
         </div>
     </section>
 
-
+    <section class="footer">
+        <h6>About Us</h6>
+        <p>Rainy Days is a online shop selling men’s and women’s rain 
+            jackets.<br> We focuse on durability and quality. To find out more
+            about us, click here.</p>
+            <div class="footer-icons">
+                <i class="fa fa-facebook"></i>
+                <i class="fa fa-twitter"></i>
+                <i class="fa fa-instagram"></i>
+                <i class="fa fa-linked-in"></i>
+            </div>
+    </section>
+<script>
+    var navLinks = document.getElementById ("navLinks");
+    function showmenu(){
+        navLinks.style.right= "0";
+    }
+    function showmenu(){
+        navLinks.style.right= "-200px";
+    }
+</script>
 
 
 
