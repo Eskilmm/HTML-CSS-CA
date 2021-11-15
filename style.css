@@ -176,14 +176,14 @@ nav img {
         position: absolute;
         text-align: center;
         top: 50%;
-        left: 20%;
+        left: 25%;
         transform: translate(-50%, -50%);
     }
     .men-shop {
         position: absolute;
         text-align: center;
         top: 50%;
-        left: 80%;
+        left: 75%;
         transform: translate(-50%, -50%);
     }
     
