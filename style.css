@@ -76,9 +76,8 @@ nav img {
     width: 90%;
     height: 766px;
     color: #fff;
-    position: absolute;
-    padding-top: 20px;
-    top: 20%;
+    position:absolute;
+    top:auto;
     left: 50%;
     transform: translate(-50%,-50%);
     text-align: left;
