@@ -86,6 +86,11 @@ nav img {
     position: relative;
     overflow: hidden;
 }
+h1{
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+}
 .CTA {
     display: inline-block;
     text-decoration: none;
