@@ -225,6 +225,7 @@ p{
     }
     h4 {
         width: 80%;
+        margin: auto;
         text-align: left;
         padding-left: 10px;
         justify-content: space-between;
