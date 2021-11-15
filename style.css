@@ -188,7 +188,6 @@ p{
         justify-content: space-between;
         position:relative;
         color:#fff;
-        object-fit: fill;
     }
     .women-shop {
         position: absolute;
@@ -212,6 +211,7 @@ p{
         margin-top: 20px;
         padding: 20px;
         box-sizing: border-box;
+        background-color: #808080;
     }
     .jackets-slider{
         display: block;
