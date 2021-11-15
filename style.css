@@ -167,14 +167,16 @@ nav img {
 
     .women-men-img {
         margin-top: 5%;
-        display: block;
+        display: flex;
         justify-content: space-between; 
     }
     .women{
        display: block;
        float: left;
+       justify-content: space-around;
     }
     .men {
         display: block;
         float: right;
+        justify-content: space-around;
     }
