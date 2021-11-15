@@ -91,7 +91,7 @@ h1{
     padding: 2% 6%;
     justify-content: space-between;
 }
-h5{
+.p2{
     display: flex;
     padding: 2% 6%;
     justify-content: space-between; 
@@ -141,7 +141,7 @@ h5{
         font-size: 36px;
         font-weight: 600;
     }
-    p{
+    .p1{
         color: rgb(211, 211, 211);
         font-size: 14px;
         font-weight: 300;
