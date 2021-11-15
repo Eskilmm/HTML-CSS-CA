@@ -185,6 +185,7 @@ p{
         flex: 1;
         position:relative;
         color:#fff;
+        box-sizing: border-box;
     }
     .women-shop {
         position: absolute;
