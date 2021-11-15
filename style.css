@@ -109,6 +109,9 @@ p{
     cursor: pointer;
     transition: 1s;
 }
+.CTA {
+    margin-left: 20px;
+}
 .CTA:hover{
     border: 1px solid #808080;
     background: #808080;
