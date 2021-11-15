@@ -170,7 +170,12 @@ nav img {
         flex: 1;
         margin: 10px 0 10px 0;
     }
-    .men {
+    .men img {
+        display: block;
+        margin: 10px 0 10px 0;
+    }
+    .women img {
+        display: block;
         margin: 10px 0 10px 0;
     }
     
