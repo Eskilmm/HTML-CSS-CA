@@ -259,8 +259,7 @@ p{
 }
 .new-arrival-img{
     position: absolute;
-        text-align: center;
-        top: 50%;
-        left: 25%;
-        transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
