@@ -335,3 +335,9 @@ nav .fa{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+.text-about h1{
+    text-align: center;
+}
+.text-about p{
+    text-align: center;
+}
