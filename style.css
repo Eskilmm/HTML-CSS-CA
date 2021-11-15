@@ -132,7 +132,7 @@ nav img {
         font-weight: 600;
     }
     p{
-        color: #777;
+        color: rgb(211, 211, 211);
         font-size: 14px;
         font-weight: 300;
         line-height: 22px;
@@ -167,9 +167,14 @@ nav img {
     }
 
     .women-men-img {
-        display: flex;
-        flex: 1;
-        margin: 10px 0 10px 0;
+        position:relative;
+        text-align: center;
+        color:#fff;
     }
-    
+    .women-shop {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
     
