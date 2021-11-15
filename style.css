@@ -257,7 +257,7 @@ p{
     display: flex;
     justify-content: space-between;
 }
-.new-arrival {
+.new-arrival-img{
     position: absolute;
         text-align: center;
         top: 50%;
