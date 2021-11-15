@@ -96,7 +96,7 @@ h1{
     text-decoration: none;
     color: #fff;
     border: 1px solid #fff;
-    padding: 12px 34px;
+    padding: 2% 6%;
     font-size: 13px;
     background-color: #00C2ff;
     position: relative;
@@ -132,7 +132,7 @@ h1{
         text-align: center;
         padding-top: 10px;
     }
-    h1{
+    h2{
         font-size: 36px;
         font-weight: 600;
     }
