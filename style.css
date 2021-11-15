@@ -216,7 +216,6 @@ p{
     .jackets-slider{
         display: block;
         white-space: nowrap;
-        background-color: #808080;
 
     }
     .jacket{
@@ -238,4 +237,14 @@ p{
     hr {
        border: 1px solid #00C2ff;
     }
+
+.row {
+    flex-basis: 31%;
+    background: #fff3f3;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: .5s;
+}
     
