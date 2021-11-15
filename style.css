@@ -321,9 +321,6 @@ nav .fa{
 .about-us-header{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(media/About\ us-1.png);
-    background-position: center;
-    background-size: cover;
     text-align: center;
     color: #fff;
 }
