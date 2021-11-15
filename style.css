@@ -196,4 +196,17 @@ p{
         left: 75%;
         transform: translate(-50%, -50%);
     }
+
+    .jackets{
+        display: block;
+        width: 100%;
+        overflow-x: scroll;
+    }
+    .jackets-slider{
+        display: block;
+        white-space: nowrap;
+    }
+    .jacket-1{
+        
+    }
     
