@@ -59,6 +59,7 @@ nav img {
 .icons {
     flex: 1;
     justify-content: space-between;
+    justify-content: right;
 }
 .profile {
     flex: 1;
