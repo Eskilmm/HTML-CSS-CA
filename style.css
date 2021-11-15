@@ -227,4 +227,7 @@ p{
         justify-content: space-between;
         font-size: 30px;
     }
+    hr {
+        width: 80%;
+    }
     
