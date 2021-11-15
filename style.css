@@ -24,6 +24,15 @@ nav img {
     text-align: center;
     
 }
+.nav-links input[type=text]{
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+
 .nav-links {
     justify-content: space-between;
 }
