@@ -257,6 +257,11 @@ p{
     display: flex;
     justify-content: space-between;
 }
+.new-arrival{
+    position: relative;
+    text-align: center;
+    color:#fff;
+}
 .new-arrival-img{
     position: absolute;
     top: 50%;
