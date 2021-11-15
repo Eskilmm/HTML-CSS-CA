@@ -183,9 +183,9 @@ p{
     .women-men-img {
         display:flex;
         flex: 1;
+        justify-content: space-between;
         position:relative;
         color:#fff;
-        box-sizing: border-box;
     }
     .women-shop {
         position: absolute;
