@@ -237,6 +237,12 @@ p{
     hr {
        border: 1px solid #00C2ff;
     }
+    .wo-are-we{
+            width: 80%;
+            margin: auto;
+            text-align: center;
+            padding-top: 100px;
+    }
     .who-new-arrival{
         margin-top: 5%;
         width: 80%;
