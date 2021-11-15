@@ -244,7 +244,7 @@ p{
             padding-top: 100px;
     }
 
-.who-new-arrival {
+.row {
     flex-basis: 31%;
     background: #808080;
     border-radius: 10px;
@@ -253,7 +253,7 @@ p{
     box-sizing: border-box;
     transition: .5s;
 }
-.row{
+.who-new-arrival{
     margin-top: 5%;
     display: flex;
     justify-content: space-between;
