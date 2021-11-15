@@ -27,8 +27,8 @@ nav img {
 .nav-links input[type=text]{
     float: right;
     padding: 8px;
-    border:#00C2ff;
-    margin-top: 8px;
+    border: solid;
+    margin-top: 7px;
     margin-right: 16px;
     font-size: 17px;
 }
