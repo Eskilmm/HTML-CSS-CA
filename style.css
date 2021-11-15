@@ -243,11 +243,6 @@ p{
             text-align: center;
             padding-top: 100px;
     }
-    .row{
-        margin-top: 5%;
-        display: flex;
-        justify-content: space-between;
-    }
 
 .who-new-arrival {
     flex-basis: 31%;
@@ -258,4 +253,8 @@ p{
     box-sizing: border-box;
     transition: .5s;
 }
-    
+.row{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
