@@ -167,7 +167,7 @@ nav img {
 
     .women-men-img {
         margin-top: 5%;
-        display: flex;
+        display: block;
         justify-content: space-between; 
     }
     .women{
