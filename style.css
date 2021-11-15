@@ -5,7 +5,7 @@
 }
 
 .header {
-    min-height: 100vh;
+    min-height: 50vh;
     width: 100%;
 }
 
@@ -77,7 +77,7 @@ nav img {
     height: 766px;
     color: #fff;
     position:absolute;
-    top:auto;
+    top:10%;
     left: 50%;
     transform: translate(-50%,-50%);
     text-align: left;
