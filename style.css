@@ -201,6 +201,7 @@ p{
         display: block;
         width: 100%;
         overflow-x: scroll;
+        margin-top: 50px;
     }
     .jackets-slider{
         display: block;
@@ -211,6 +212,6 @@ p{
         margin-right: 10px;
     }
     .jacket img{
-        
+        width: 150px;
     }
     
