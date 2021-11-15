@@ -165,18 +165,7 @@ nav img {
         padding-left: 10px;
     }
 
-    .women-men-img {
-        margin-top: 5%;
-        display: flex;
-        justify-content: space-between; 
+    .women-men-img img {
+        margin: 10px 0 10px 0;
     }
-    .women{
-       display: block;
-       float: left;
-       justify-content: space-around;
-    }
-    .men {
-        display: block;
-        float: right;
-        justify-content: space-around;
-    }
+    
