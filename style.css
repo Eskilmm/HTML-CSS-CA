@@ -184,7 +184,7 @@ p{
         display:flex;
         flex: 1;
         justify-content: space-between;
-        position:fixed;
+        position:relative;
         color:#fff;
     }
     .women-shop {
