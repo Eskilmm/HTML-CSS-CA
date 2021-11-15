@@ -157,3 +157,10 @@ nav img {
         font-weight: 600;
         margin: 10px 0;
     }
+
+    .women-men {
+        width: 80%;
+        margin: auto;
+        text-align: left;
+        padding-left: 20px;
+    }
