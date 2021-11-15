@@ -237,10 +237,15 @@ p{
     hr {
        border: 1px solid #00C2ff;
     }
+    .who-new-arrival{
+        margin-top: 5%;
+        display: flex;
+        justify-content: space-between;
+    }
 
 .row {
     flex-basis: 31%;
-    background: #fff3f3;
+    background: #808080;
     border-radius: 10px;
     margin-bottom: 5%;
     padding: 20px 12px;
