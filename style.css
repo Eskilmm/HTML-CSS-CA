@@ -311,6 +311,9 @@ nav .fa{
     margin-top: 20px;
     font-weight: 600;
 }
+.footer p{
+    text-align: center;
+}
 .icons .fa{
     color: #00C2ff;
     margin: 0 13px;
