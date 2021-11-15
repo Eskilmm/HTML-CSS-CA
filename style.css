@@ -209,6 +209,7 @@ p{
         width: 100%;
         overflow-x: scroll;
         margin-top: 20px;
+        padding: 20px;
     }
     .jackets-slider{
         display: block;
@@ -224,7 +225,7 @@ p{
     }
     h4 {
         width: 80%;
-        margin: auto;
+        margin: 15px 0;
         text-align: left;
         padding-left: 10px;
         justify-content: space-between;
